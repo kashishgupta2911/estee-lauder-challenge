@@ -1,0 +1,84 @@
+button {
+  margin: 13px;
+  padding: 10px 16px;
+  border: 1px solid #EC4663;
+  background:#EC4663;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+a{
+  color: white
+}
+
+
+.logo {
+  margin-right: 10px; 
+  padding-left: 30px;
+}
+
+.menu-buttons {
+  display: flex;
+}
+
+.menu-buttons button {
+  margin-right: 10px; 
+}
+
+
+.buttons{
+  height: 100px;
+  width: 100px; 
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #F9C6D2 ;
+}
+
+.banner{
+  width: 90%;
+  height: 400px;
+  text-align: center;
+}
+
+.welcome{
+  width: 50%;
+  height: 100px;
+  text-align: center;
+}
+
+
+
+
+.mask{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+
+.lotion{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+.cleanser{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+.homepage{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+.logo{
+  height: auto;
+  width: 200px;
+}

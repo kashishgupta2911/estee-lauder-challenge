@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #F9C6D2 ;
+  font-family: Optima Medium;
+}
+
+.banner{
+  width: 800px;
+  height: 400px;
+}
+
+.mask{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+.lotion{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+.cleanser{
+  height: 200px;
+  width: 200px;
+  padding: 7px;
+}
+
+img{
+  height: 280px;
+  width: 280px;
+  padding: 10px;
+  color: #EC4663;
+}
+
+.lotion1banner{
+  width: 600px;
+  height: 300px;
+}
+
+.lotion2banner{
+  width: 600px;
+  height: 300px;
+}
